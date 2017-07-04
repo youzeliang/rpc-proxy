@@ -8,10 +8,13 @@ print(a)
 
 a[0]='aaa'
 print(a)
-#fdfdffdfdfdfd
+
 #append  it can
 b=[]
 b.append('test')
 print(b)
 
 print("555")
+
+
+print('666')
