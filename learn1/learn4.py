@@ -24,4 +24,5 @@ else:
     print("没有循环数据")
 print("完成循环")
 
-
+for i in range(6):  #内置函数
+    print(i)
