@@ -5,7 +5,7 @@
 #     print(repr(x).rjust(2), repr(x * x).rjust(3), end=' ')
 #     print(repr(x * x * x).rjust(4))
 
-# str = input("请输入：");
+#   str = input("请输入：");
 # print("你输入的内容是: ", str)
 f = open("D;/1.txt", "w")
 f.write("fsd")
