@@ -20,4 +20,4 @@ def spam(f):
     except ZeroDivisionError:
         print('除数不能为0')
 
-print(spam(0))
+print(spam(3))
