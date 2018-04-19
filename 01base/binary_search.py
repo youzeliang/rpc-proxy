@@ -21,7 +21,7 @@ def binary_search(list, item):
     # Item doesn't exist
     return None
 
-
+# list should be the order
 my_list = [1, 3, 5, 7, 9, 13]
 print(binary_search(my_list, 7))  # => 1
 
